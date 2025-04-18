@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Service\\GameLauncher.Service.csproj": {}
+    "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Service\\GameLauncher.Service.csproj": {}
   },
   "projects": {
-    "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj": {
+    "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj",
+        "projectUniqueName": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj",
         "projectName": "GameLauncher.Bll.Common",
-        "projectPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj",
-        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
-        "outputPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll.Common\\obj\\",
+        "projectPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj",
+        "packagesPath": "C:\\Users\\venzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\venzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -60,24 +66,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj": {
+    "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj",
+        "projectUniqueName": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj",
         "projectName": "GameLauncher.Bll",
-        "projectPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj",
-        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
-        "outputPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll\\obj\\",
+        "projectPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj",
+        "packagesPath": "C:\\Users\\venzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\venzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -99,7 +105,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -120,24 +132,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj": {
+    "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj",
+        "projectUniqueName": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj",
         "projectName": "GameLauncher.Dal.MsSQL",
-        "projectPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj",
-        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
-        "outputPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\obj\\",
+        "projectPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj",
+        "packagesPath": "C:\\Users\\venzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\venzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -159,7 +171,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -222,24 +240,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Service\\GameLauncher.Service.csproj": {
+    "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Service\\GameLauncher.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Service\\GameLauncher.Service.csproj",
+        "projectUniqueName": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Service\\GameLauncher.Service.csproj",
         "projectName": "GameLauncher.Service",
-        "projectPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Service\\GameLauncher.Service.csproj",
-        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
-        "outputPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Service\\obj\\",
+        "projectPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Service\\GameLauncher.Service.csproj",
+        "packagesPath": "C:\\Users\\venzh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\venzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -255,14 +273,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj": {
-                "projectPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj"
+              "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj": {
+                "projectPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll.Common\\GameLauncher.Bll.Common.csproj"
               },
-              "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj": {
-                "projectPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj"
+              "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj": {
+                "projectPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Bll\\GameLauncher.Bll.csproj"
               },
-              "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj": {
-                "projectPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj"
+              "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj": {
+                "projectPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj"
               }
             }
           }
@@ -271,7 +289,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -321,7 +345,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

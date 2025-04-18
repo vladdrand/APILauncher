@@ -9,3 +9,15 @@ C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\Ga
 C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\refint\GameLauncher.Bll.Common.dll
 C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\GameLauncher.Bll.Common.pdb
 C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\ref\GameLauncher.Bll.Common.dll
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\bin\Debug\net8.0\GameLauncher.Bll.Common.deps.json
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\bin\Debug\net8.0\GameLauncher.Bll.Common.dll
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\bin\Debug\net8.0\GameLauncher.Bll.Common.pdb
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\GameLauncher.Bll.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\GameLauncher.Bll.Common.AssemblyInfoInputs.cache
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\GameLauncher.Bll.Common.AssemblyInfo.cs
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\GameLauncher.Bll.Common.csproj.CoreCompileInputs.cache
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\GameLauncher.Bll.Common.sourcelink.json
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\GameLauncher.Bll.Common.dll
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\refint\GameLauncher.Bll.Common.dll
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\GameLauncher.Bll.Common.pdb
+C:\Users\venzh\Desktop\Vlad\APILauncher\GameLauncher.Bll.Common\obj\Debug\net8.0\ref\GameLauncher.Bll.Common.dll

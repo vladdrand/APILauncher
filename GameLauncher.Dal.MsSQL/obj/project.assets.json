@@ -5082,23 +5082,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vladd\\.nuget\\packages\\": {},
+    "C:\\Users\\venzh\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj",
+      "projectUniqueName": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj",
       "projectName": "GameLauncher.Dal.MsSQL",
-      "projectPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj",
-      "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
-      "outputPath": "D:\\games\\APILauncher\\APILauncher\\GameLauncher.Dal.MsSQL\\obj\\",
+      "projectPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\GameLauncher.Dal.MsSQL.csproj",
+      "packagesPath": "C:\\Users\\venzh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\venzh\\Desktop\\Vlad\\APILauncher\\GameLauncher.Dal.MsSQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\venzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5120,7 +5120,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -5183,7 +5189,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

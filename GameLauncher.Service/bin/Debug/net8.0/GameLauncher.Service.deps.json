@@ -1195,12 +1195,18 @@
       },
       "GameLauncher.Bll/1.0.0": {
         "runtime": {
-          "GameLauncher.Bll.dll": {}
+          "GameLauncher.Bll.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "GameLauncher.Bll.Common/1.0.0": {
         "runtime": {
-          "GameLauncher.Bll.Common.dll": {}
+          "GameLauncher.Bll.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "GameLauncher.Dal.MsSQL/1.0.0": {
@@ -1214,7 +1220,10 @@
           "Microsoft.Extensions.Logging.Console": "9.0.4"
         },
         "runtime": {
-          "GameLauncher.Dal.MsSQL.dll": {}
+          "GameLauncher.Dal.MsSQL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

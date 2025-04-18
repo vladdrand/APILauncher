@@ -9,11 +9,15 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-/*builder.Services.AddDbContext<Context>(options =>
+builder.Services.AddDbContext<Context>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-});*/
-builder.Services.AddDbContext<Context>();
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+    .UseLoggerFactory(LoggerFactoryCreate())
+    .EnableSensitiveDataLogging();
+});
+
+ILoggerFactory LoggerFactoryCreate()
+    => LoggerFactory.Create(builder => { builder.AddConsole(); });
 
 var app = builder.Build();
 
