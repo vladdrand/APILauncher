@@ -1,0 +1,11 @@
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\bin\Debug\net8.0\GameLauncher.Bll.deps.json
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\bin\Debug\net8.0\GameLauncher.Bll.dll
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\bin\Debug\net8.0\GameLauncher.Bll.pdb
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\obj\Debug\net8.0\GameLauncher.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\obj\Debug\net8.0\GameLauncher.Bll.AssemblyInfoInputs.cache
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\obj\Debug\net8.0\GameLauncher.Bll.AssemblyInfo.cs
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\obj\Debug\net8.0\GameLauncher.Bll.csproj.CoreCompileInputs.cache
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\obj\Debug\net8.0\GameLauncher.Bll.dll
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\obj\Debug\net8.0\refint\GameLauncher.Bll.dll
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\obj\Debug\net8.0\GameLauncher.Bll.pdb
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Bll\obj\Debug\net8.0\ref\GameLauncher.Bll.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6nG6hffYxlopFh8SnACtNgpc+NqL1mKCRdJge3dhBAc=",
+  "Source": "GameLauncher.Service",
+  "BasePath": "_content/GameLauncher.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

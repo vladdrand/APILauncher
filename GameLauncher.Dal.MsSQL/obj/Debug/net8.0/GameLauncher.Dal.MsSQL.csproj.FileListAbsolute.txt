@@ -1,0 +1,14 @@
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\bin\Debug\net8.0\GameLauncher.Dal.MsSQL.deps.json
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\bin\Debug\net8.0\GameLauncher.Dal.MsSQL.runtimeconfig.json
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\bin\Debug\net8.0\GameLauncher.Dal.MsSQL.dll
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\bin\Debug\net8.0\GameLauncher.Dal.MsSQL.pdb
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\GameLauncher.Dal.MsSQL.csproj.AssemblyReference.cache
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\GameLauncher.Dal.MsSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\GameLauncher.Dal.MsSQL.AssemblyInfoInputs.cache
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\GameLauncher.Dal.MsSQL.AssemblyInfo.cs
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\GameLauncher.Dal.MsSQL.csproj.CoreCompileInputs.cache
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\GameLauncher.Dal.MsSQL.dll
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\refint\GameLauncher.Dal.MsSQL.dll
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\GameLauncher.Dal.MsSQL.pdb
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\GameLauncher.Dal.MsSQL.genruntimeconfig.cache
+C:\Users\vladd\OneDrive\Documents\Lessons\Main programming\C#\GameLauncherApi\GameLauncher\GameLauncher.Dal.MsSQL\obj\Debug\net8.0\ref\GameLauncher.Dal.MsSQL.dll
