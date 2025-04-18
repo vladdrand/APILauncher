@@ -1,0 +1,48 @@
+# .NET
+bin/
+obj/
+
+# Точки сборки
+.vs/
+.vscode/
+.idea/
+
+# Файлы пользовательских настроек
+appsettings.Development.json
+appsettings.Production.json
+
+# Папки и файлы, связанные с тестами
+test-results/
+coverage/
+
+# Файлы и каталоги, связанные с контейнерами
+.docker/
+.dockerignore
+
+# Файлы журнала
+*.log
+*.bak
+*.tmp
+
+# Папки для IDE (если используется)
+# JetBrains Rider
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+
+# Папки NuGet
+.nuget/
+
+# Кеши пакетов
+packages/
+
+# Папки для ASP.NET Core
+wwwroot/
+
+# Логирование ASP.NET
+logs/
+
+# Дополнительные IDE/редакторы
+.vscode/
+.idea/
